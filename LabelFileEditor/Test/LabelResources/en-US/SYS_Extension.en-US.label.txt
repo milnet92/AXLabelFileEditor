@@ -1,0 +1,3 @@
+﻿NewLabel0=Label files created on 06/15/2020 10:24:38 for label file Id SYS_Extension and language en-US
+ ;Label file comment - see above label
+@SYS302117='Period end date' must be greater than 'Period start date'.

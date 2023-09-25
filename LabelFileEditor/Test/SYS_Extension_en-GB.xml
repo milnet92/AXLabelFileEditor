@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<AxLabelFile xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-	<Name>SYS_Extension_en-GB</Name>
-	<LabelContentFileName>SYS_Extension.en-GB.label.txt</LabelContentFileName>
-	<LabelFileId>SYS_Extension</LabelFileId>
-	<Language>en-GB</Language>
-	<RelativeUriInModelStore>UNICCFinance\UNICC Finance\AxLabelFile\LabelResources\en-GB\SYS_Extension.en-GB.label.txt</RelativeUriInModelStore>
-</AxLabelFile>

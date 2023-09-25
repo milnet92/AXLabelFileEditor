@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<AxLabelFile xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-	<Name>UCF_en-US</Name>
-	<LabelContentFileName>UCF.en-US.label.txt</LabelContentFileName>
-	<LabelFileId>UCF</LabelFileId>
-	<RelativeUriInModelStore>UNICCFinance\UNICC Finance\AxLabelFile\LabelResources\en-US\UCF.en-US.label.txt</RelativeUriInModelStore>
-</AxLabelFile>
